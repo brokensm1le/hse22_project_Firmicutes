@@ -1,3 +1,6 @@
+Colab: https://colab.research.google.com/drive/13XVbMmDadGVuvP3NoVdmjjsQp02_PbZp?usp=sharing
+
+
 | Organism name                     |   Count annotated gene |   Len annotated gene |   Percent annotate gene |   Count Z-DNA region(without filters) |   Count Z-DNA region(with filters) |   Summary len Z-DNA region |
 |:----------------------------------|-----------------------:|---------------------:|------------------------:|--------------------------------------:|-----------------------------------:|---------------------------:|
 | Planococcus halocryophilus        |                   3382 |              2982815 |                      87 |                               3424893 |                               4477 |                      43544 |
