@@ -19,7 +19,7 @@ Colab: https://colab.research.google.com/drive/13XVbMmDadGVuvP3NoVdmjjsQp02_PbZp
 <p float="left">
   <img src="/pic/hist1.png" width="410" />
   <img src="/pic/hist2.png" width="410" />
-  <img src="/pic/hist3.png" width="420" />
-  <img src="/pic/hist4.png" width="420" />
-  <img src="/pic/hist5.png" width="420" />
+  <img src="/pic/hist3.png" width="410" />
+  <img src="/pic/hist4.png" width="410" />
+  <img src="/pic/hist5.png" width="410" />
 </p>
