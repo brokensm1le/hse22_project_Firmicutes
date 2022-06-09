@@ -1,3 +1,7 @@
+# hse22_project_Firmicutes
+
+Род: Planococcus
+
 Colab: https://colab.research.google.com/drive/13XVbMmDadGVuvP3NoVdmjjsQp02_PbZp?usp=sharing
 
 
