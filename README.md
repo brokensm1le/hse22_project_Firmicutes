@@ -23,3 +23,21 @@ Colab: https://colab.research.google.com/drive/13XVbMmDadGVuvP3NoVdmjjsQp02_PbZp
   <img src="/pic/hist4.png" width="410" />
   <img src="/pic/hist5.png" width="410" />
 </p>
+
+## Расположение предсказанных z-dna:
+
+<p float="left">
+  <img src="/pic/zdna1.png" width="410" />
+</p>
+<p float="left">
+  <img src="/pic/zdna2.png" width="410" />
+</p>
+<p float="left">
+  <img src="/pic/zdna3.png" width="410" />
+</p>
+<p float="left">
+  <img src="/pic/zdna4.png" width="410" />
+</p>
+<p float="left">
+  <img src="/pic/zdna5.png" width="410" />
+</p>
