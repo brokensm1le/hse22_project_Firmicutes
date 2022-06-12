@@ -27,17 +27,17 @@ Colab: https://colab.research.google.com/drive/13XVbMmDadGVuvP3NoVdmjjsQp02_PbZp
 ## Расположение предсказанных z-dna:
 
 <p float="left">
-  <img src="/pic/zdna1_.png" width="700" />
+  <img src="/pic/zdna1_1.png" width="700" />
 </p>
 <p float="left">
-  <img src="/pic/zdna2_.png" width="700" />
+  <img src="/pic/zdna2_1.png" width="700" />
 </p>
 <p float="left">
-  <img src="/pic/zdna3_.png" width="700" />
+  <img src="/pic/zdna3_1.png" width="700" />
 </p>
 <p float="left">
-  <img src="/pic/zdna4_.png" width="700" />
+  <img src="/pic/zdna4_1.png" width="700" />
 </p>
 <p float="left">
-  <img src="/pic/zdna5_.png" width="700" />
+  <img src="/pic/zdna5_1.png" width="700" />
 </p>
