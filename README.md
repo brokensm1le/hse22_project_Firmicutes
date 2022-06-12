@@ -44,4 +44,4 @@ Colab: https://colab.research.google.com/drive/13XVbMmDadGVuvP3NoVdmjjsQp02_PbZp
 
 # Гомологичные связи между белками выбранных геномов (создание кластеров)
 
-<img src="/pic/rasp.png" width="700" />
+<img src="/pic/raspr.png" width="700" />
