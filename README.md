@@ -42,6 +42,6 @@ Colab: https://colab.research.google.com/drive/13XVbMmDadGVuvP3NoVdmjjsQp02_PbZp
   <img src="/pic/zdna5_1.png" width="700" />
 </p>
 
-# Гомологичные связи между белками выбранных геномов (создание кластеров)
+## Гомологичные связи между белками выбранных геномов (создание кластеров)
 
 <img src="/pic/raspr.png" width="700" />
