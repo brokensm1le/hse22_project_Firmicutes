@@ -63,3 +63,6 @@ Colab: https://colab.research.google.com/drive/13XVbMmDadGVuvP3NoVdmjjsQp02_PbZp
 
 
 ## Множественное белковое выравнивание
+
+Выравнивание было выполнено ClustalW.
+
