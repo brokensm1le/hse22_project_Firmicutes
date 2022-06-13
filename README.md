@@ -46,6 +46,8 @@ Colab: https://colab.research.google.com/drive/13XVbMmDadGVuvP3NoVdmjjsQp02_PbZp
 
 <img src="/pic/raspr.png" width="700" />
 
+<img src="/pic/raspr2.png" width="700" />
+
 ## Определение кластеров гомологов-белков
 
 |   # Species |   Genes |   Alg.-Conn. | GCF_002009235.1_ASM200923v1   | GCF_001687665.2_ASM168766v2   | GCF_001687585.2_ASM168758v2   | GCF_004785625.2_ASM478562v2   | GCF_001687565.2_ASM168756v2   |   zh-score_mean |
