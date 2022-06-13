@@ -251,7 +251,8 @@ WP_006828953.1_3      CRPPKRRRV
 WP_006828953.1_4      CRPPKRRRV
 WP_008497448.1        CRPPKRRRV
                       *********
-    ```
+
+  ```
 </details> 
 
 
@@ -289,7 +290,8 @@ WP_065526851.1      IDPRVKGVPSTKGLLT
 WP_008496052.1      IDPRVKGVPSTKGLLT
 WP_112224562.1      IDPRVKGVPSTKGLLT
                     ****************
-    ```
+
+  ```
 </details> 
 
 
